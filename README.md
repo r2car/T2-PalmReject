@@ -5,6 +5,8 @@ Grabs the physical trackpad, filters palm-shaped contacts, and forwards
 accepted contacts through a virtual multitouch touchpad so libinput keeps
 handling pointer acceleration, two-finger scrolling, clicking, and gestures.
 
+Personally, I have found it to be more reliable and functional that simply disabling the trackpad during typing.
+
 ## Compatibility
 
 Currently tested on:
