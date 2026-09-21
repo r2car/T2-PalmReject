@@ -1,5 +1,5 @@
 # T2 PalmReject
-This project aims to improve palm rejection functionality for those running t2linux on their macbooks.
+This project aims bring native palm rejection to t2 macbooks using linux.
 
 Grabs the physical trackpad, filters palm-shaped contacts, and forwards
 accepted contacts through a virtual multitouch touchpad so libinput keeps
